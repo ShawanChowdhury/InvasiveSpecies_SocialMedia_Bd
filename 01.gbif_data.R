@@ -19,7 +19,7 @@ occ_download(
   pred("occurrenceStatus","PRESENT"),
   pred("country", "BD"),
   format = "SIMPLE_CSV",
-  user= "shawan_zl",pwd= "nabolakothaFB89",email= "shawan1094061@gmail.com"
+  user= "",pwd= "",email= ""
 )
 
 # Check download status
